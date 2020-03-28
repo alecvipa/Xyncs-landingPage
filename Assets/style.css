@@ -222,6 +222,101 @@ a:hover {
     margin-top: -4%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+/* Cuarta sección */
+.bannerContacto{
+    height: 135pt;
+    margin-top: -3%;
+    width: 101.2% !important;
+    position: relative;
+    right: 1.2%;
+    margin-bottom: 3%;
+    background-color: #1fd3fb;
+}
+.xyncsTransWhite{
+    width: 200px;
+    position: relative;
+    left: 6.5%;
+    margin-top: 2.8% !important; 
+}
+.titleBanner {
+    color: #333545;
+    position: relative;
+    left: 42.1%;
+    bottom: 62%;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 300pt;
+}
+.titleBanner2 {
+    color: #333545;
+    position: relative;
+    left: 45.8%;
+    bottom: 62%;
+    /* font-weight: bold; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 300pt;
+}
+.arrow2{
+    position: relative;
+    left: 49%;
+    bottom: 108%;
+    width: 30%;
+}
+.formularioContacto{
+    height: 636pt;
+    margin-top: -3%;
+    width: 101.2% !important;
+    position: relative;
+    right: 1.2%;
+    margin-bottom: 3%;
+    background-color: white;;
+}
+.theForm {
+    width: 35%;
+    text-align: right;
+    position: relative;
+    left: 58.7%;
+    top: -6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.privacyPolicy{
+    color: #333545 !important;
+    font-size: 12pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.contactHeader{
+    text-align: center;
+    color: #333545 !important;
+    padding-top: 7% !important;
+    padding-bottom: 7% !important;
+ }
+ .subtitleContact{
+     position: relative;
+     top: 18%;
+     left: 6%;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     width: 40%;
+ }
+ /* Quinta Sección */
+ .footer{
+    height: 135pt;
+    margin-top: -3%;
+    width: 101.2% !important;
+    position: relative;
+    right: 1.2%;
+    margin-bottom: 3%;
+    background-color: #333545;
+    margin-bottom: -1%;
+ }
+ .xyncsTransFooter{
+    width: 200px;
+    position: relative;
+    left: 45.8%;
+    margin-top: 2.8% !important;  
+ }
 @media only screen and (max-width: 1000px) {
     /* Primera Sección */
     a {
