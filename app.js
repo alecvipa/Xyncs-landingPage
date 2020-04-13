@@ -9,6 +9,8 @@ app.use(express.urlencoded({extended: false}));
 
 app.use(express.static(path.join(__dirname,"public")));
 
+require("./routes/htmlRoutes")(app);
+
 app.post("/ajax/email", function (request, response) {
     const transporter = nodemailer.createTransport({
         service: 'gmail',
