@@ -1,0 +1,82 @@
+other responsiveness
+@media only screen and (max-width: 1000px) {
+    /* Primera Sección */
+    a {
+        margin-top: 2%;
+        
+    }
+    .xyncsBlack {
+        width: 50%;
+        position: relative;
+        left:10%;
+    }
+   
+    
+  }
+
+  @media only screen and (max-width: 600px) {
+      /* Primera Sección */
+    .nubeTitle {
+        position: relative;
+        bottom: 70%;
+        color: black;
+        margin-left: 1.8%;
+    }
+    .nubeTitle2 {
+        margin-left: 40%;
+        width: 200pt;
+        font-size: 18pt;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: right;
+        margin-top: -4%;
+    }
+    div:nth-child(1) {
+        background-image: url("../Assets/images/architecture-2.JPG") !important;
+        background-size: cover;
+        background-attachment: fixed;
+        height: 700px;
+
+    
+    }
+    .descbtn{
+        margin-left: 70%;
+        margin-top: 1%;
+    }
+    .arrow1 {
+        position: relative;
+        left: 29%;
+        bottom: 40%;
+        width: 30%;
+    }
+   
+    
+  }
+  @media only screen and (min-width: 1200px) {
+      /* Primera Sección */
+    .arrow1 {
+        position: relative;
+        left: 43%;
+        bottom: 33.5%;
+        width: 30%;
+    }
+    /* Segunda Sección */
+    .nosotrosPresentation{
+        position: relative;
+        right: 1.2%;
+        margin-top: -20.23%;
+    }
+    
+    }
+    @media only screen and (max-width: 1400px) {
+        /* Segunda sección */
+        .nosotrosPresentation{
+            background-color: white;
+            height: 500pt;
+            margin-top: -21.9%;
+            width: 101.2% !important;
+            position: relative;
+            right: 1.3%;
+        }
+        
+        }
+    
