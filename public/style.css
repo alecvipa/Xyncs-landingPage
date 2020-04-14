@@ -350,8 +350,8 @@ a:hover {
         line-height: 2 !important;
     }
     .navbar-toggler-icon{
-        font-size: 1.55rem;
-        text-align: center;
+        /* font-size: 1.55rem; */
+        padding: 50%;
     }
     a {
         color: white !important;
