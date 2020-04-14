@@ -335,11 +335,10 @@ a:hover {
 
     div:nth-child(1) {
         background-image: url("./images/architecture-2.JPG") !important;
-        background-size: cover;
-        background-attachment: fixed;
+        background-size:auto
+        /* background-attachment: fixed;
         height: 700px;
-        background-position-x: center;
-        width: 33.7rem;
+        width: 33.7rem; */
     
     }
     #navScrollSpy{
