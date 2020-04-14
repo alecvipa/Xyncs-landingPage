@@ -352,6 +352,7 @@ a:hover {
     .navbar-toggler-icon{
         /* font-size: 1.55rem; */
         padding: 50%;
+        margin-right: 2%;
     }
     a {
         color: white !important;
