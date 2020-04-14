@@ -4,6 +4,8 @@ const nodemailer = require("nodemailer");
 
 const app = express();
 
+var PORT = process.env.PORT || 8080;
+
 app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 
@@ -43,4 +45,6 @@ app.post("/ajax/email", function (request, response) {
     });
 });
 
-app.listen(3000, ()=> console.log("listening on port 3000"));
+app.listen(PORT, function() {
+    console.log("App listening on PORT: " + PORT);
+  });
