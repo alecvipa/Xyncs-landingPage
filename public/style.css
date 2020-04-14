@@ -351,6 +351,7 @@ a:hover {
     }
     .navbar-toggler-icon{
         font-size: 1.55rem;
+        text-align: center;
     }
     a {
         color: white !important;
