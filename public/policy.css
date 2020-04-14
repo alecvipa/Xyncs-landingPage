@@ -42,3 +42,39 @@
 a{
     color: white !important;
 }
+
+ /* For mobiles responsiveness */
+ @media screen and (max-width: 768px) {
+    #policy{
+        height: 900%;
+    }
+    .titlePolicy {
+        font-size: 100% !important;
+    }
+    .r{
+        padding-top: 5%;
+    }
+    /* Quinta Sección */
+ .footer{
+    height: 135pt;
+    margin-top: -3%;
+    width: 101.2% !important;
+    position: relative;
+    right: 1.2%;
+    margin-bottom: 3%;
+    background-color: #333545;
+    margin-bottom: -1%;
+ }
+ .xyncsTransFooter{
+    width: 30%;
+    position: relative;
+    left: 35%;
+    margin-top: 8.8% !important;  
+ }
+ .regresarboton {
+    position: relative;
+    left: 40%;
+    margin-top: -2%;
+    margin-bottom: 7%;
+}
+ }
