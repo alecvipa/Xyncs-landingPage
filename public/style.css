@@ -401,8 +401,9 @@ a:hover {
     .arrow1 {
         position: relative;
         left: 30%;
-        bottom: 35%;
+        bottom: 40%;
         width: 30%;
+        height: 23%;
     }
 
   /* Segunda Sección */
