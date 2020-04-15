@@ -345,8 +345,8 @@ a:hover {
     
     }
     #navScrollSpy{
-        margin-top: 8%;
-        margin-left: 24%;
+        margin-top: 20%;
+        margin-left: 17%;
     }
     /* .navbar-toggler{
         width: 40% !important;
@@ -368,9 +368,10 @@ a:hover {
     }
     
     .xyncsBlack {
-        width: 69%;
+        width: 80%;
         position: relative;
         left: 13%;
+        margin-top: 13%;
     }
     
     .navbar{
@@ -378,10 +379,10 @@ a:hover {
     }
     .nubeTitle {
         position: relative;
-        bottom: 80%;
+        bottom: 69%;
         color: black;
-        margin-left: 27.8%;
-        width: 71%;
+        margin-left: -33%;
+        width: 124%;
 
     }
     .nubeTitle2 {
@@ -398,8 +399,8 @@ a:hover {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     .descbtn{
-        margin-left: 45%;
-        margin-top: 1%;
+        margin-left: 53%;
+        margin-top: 4%;
     }
     .separatorLine1{
         width: 50%;
