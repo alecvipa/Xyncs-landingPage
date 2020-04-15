@@ -334,7 +334,8 @@ a:hover {
     }
 
     div:nth-child(1) {
-        background-image: url("./images/architecture-2.JPG") !important;
+        /* background-image: url("./images/architecture-2.JPG") !important; */
+        background-color: #1fd3fb;
         background-size:auto
         /* background-attachment: fixed;
         height: 700px;
