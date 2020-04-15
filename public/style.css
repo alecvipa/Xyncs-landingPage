@@ -345,8 +345,8 @@ a:hover {
     
     }
     #navScrollSpy{
-        margin-top: 20%;
-        margin-left: 0%;
+        margin-top: 8%;
+        margin-left: 24%;
     }
     /* .navbar-toggler{
         width: 40% !important;
@@ -368,10 +368,9 @@ a:hover {
     }
     
     .xyncsBlack {
-        width: 61%;
+        width: 69%;
         position: relative;
-        left: 22%;
-        
+        left: 13%;
     }
     
     .navbar{

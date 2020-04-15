@@ -35,5 +35,11 @@ $(document).ready(function () {
 
     };
 
+    if($(window).width() < 515) {
+        $(".xyncsBlack").attr("src", "./images/xyncsTransWhite.png");
+    } else {
+        $(".xyncsBlack").attr("src", "./images/xyncsBackground.jpg");
+    }
 
+    
 });
