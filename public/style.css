@@ -378,7 +378,9 @@ a:hover {
         position: relative;
         bottom: 80%;
         color: black;
-        margin-left: 1.8%;
+        margin-left: 27.8%;
+        width: 71%;
+
     }
     .nubeTitle2 {
         margin-right: 12%;
@@ -394,7 +396,7 @@ a:hover {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     .descbtn{
-        margin-left: 54%;
+        margin-left: 45%;
         margin-top: 1%;
     }
     .separatorLine1{
