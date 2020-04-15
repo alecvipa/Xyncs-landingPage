@@ -24,14 +24,16 @@ a:hover {
 }
 
 .xyncsBlack {
-    width: 33%;
+    width: 39%;
     position: relative;
-    left: 72%;
+    left: -12%;
     
 }
 
 .navbar{
     margin-left: 3%;
+    position: relative;
+    left: 25%;
 }
 .nubeTitle {
     position: relative;
