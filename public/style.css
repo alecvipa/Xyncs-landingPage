@@ -349,11 +349,11 @@ a:hover {
         width: 40% !important;
         line-height: 2 !important;
     }
-    .navbar-toggler-icon{
-        /* font-size: 1.55rem; */
+    /* .navbar-toggler-icon{
+        font-size: 1.55rem;
         padding: 50%;
         margin-right: 2%;
-    }
+    } */
     a {
         color: white !important;
         margin-top: -2%;
