@@ -330,7 +330,7 @@ a:hover {
 
     body {
         position: relative !important;
-        max-width: 468px;
+        max-width: auto;
     }
 
     div:nth-child(1) {
@@ -382,7 +382,7 @@ a:hover {
     }
     .nubeTitle2 {
         margin-right: 9%;
-        font-size: 17pt;
+        font-size: 12pt;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         text-align: right;
         margin-top: -4%;
