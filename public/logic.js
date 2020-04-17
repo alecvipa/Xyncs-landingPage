@@ -1,5 +1,13 @@
 
 $(document).ready(function () {
+
+    if($(window).width() < 515) {
+        $(".xyncsBlack").attr("src", "./images/xyncsTransWhite.png");
+        $(".mediaQueryImage").attr("src", "./images/pinkdressGirl.JPG");
+    } else {
+        $(".xyncsBlack").attr("src", "./images/xyncsBackground.jpg");
+        $(".mediaQueryImage").attr("src", "");
+    }
     var arrCounter = 0;
 
     function arrow2(){
@@ -35,13 +43,7 @@ $(document).ready(function () {
 
     };
 
-    if($(window).width() < 515) {
-        $(".xyncsBlack").attr("src", "./images/xyncsTransWhite.png");
-        $(".mediaQueryImage").attr("src", "./images/pinkdressGirl.JPG");
-    } else {
-        $(".xyncsBlack").attr("src", "./images/xyncsBackground.jpg");
-        $(".mediaQueryImage").attr("src", "");
-    }
+   
 
     
 });

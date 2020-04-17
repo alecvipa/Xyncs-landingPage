@@ -415,11 +415,6 @@ a:hover {
         margin-left: -3;
     }
     .arrow1 {
-        /* position: relative;
-        left: 26%;
-        bottom: 64%;
-        width: 30%;
-        height: 12%; */
         display: none;
     }
 
@@ -440,8 +435,6 @@ a:hover {
     margin-bottom: 3%;
     }
     .VR{
-    /* width: 100%;
-    opacity: 0; */
     display: none;
     }
     .nosotrosTitle{
@@ -464,26 +457,26 @@ a:hover {
     margin-top: 109%;
     
     }
-.nosotrosList{
+    .nosotrosList{
     margin-top: 2%;
-}
+    }
 .descbtn2{
     margin-left: 38%;
     margin-top: -10%;
     width: 37% !important;
-}
-.sectionBtn{
+} 
+ .sectionBtn{
     margin-top: 24%;
     width: 123%;
     position: relative;
     right: 40%;
-}
-.titleJumbo{
+ }
+ .titleJumbo{
     font-size: 200% !important;
     text-align: center !important;
-}
-/* Tercera sección */
-.tecnologias{
+ }
+ /* Tercera sección */
+ .tecnologias{
     background-color: white;
     height: 170%;
     margin-top: -3%;
@@ -491,9 +484,9 @@ a:hover {
     position: relative;
     right: 1.2%;
     margin-bottom: 3%;
-}
-/* gallery  */
-.gallery-item{
+ } 
+ /* gallery  */
+ .gallery-item{
     background: var(--mainYellow);
     position: relative;
     cursor: pointer;
@@ -591,20 +584,20 @@ a:hover {
     font-size: 16px;
     padding: 16px 32px;
   }
-/* Gallery */
-.googleLetter{
+ /* Gallery */
+ .googleLetter{ 
     font-weight: bolder;
     font-size: 13pt;
     background-color: white;
     border-radius: 4pt;
-}
-.jumbotitle{
+ }
+ .jumbotitle{
     margin-top: -4%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+ }
 
-/* Cuarta sección */
-.bannerContacto{
+ /* Cuarta sección */
+ .bannerContacto{
     height: 135pt;
     margin-top: -3%;
     width: 101.2% !important;
@@ -612,14 +605,14 @@ a:hover {
     right: 1.2%;
     margin-bottom: 3%;
     background-color: #1fd3fb;
-}
-.xyncsTransWhite{
+ }
+ .xyncsTransWhite{
     width: 14%;
     position: relative;
     left: 6.5%;
     margin-top: 37% !important; 
-}
-.titleBanner {
+ }
+ .titleBanner {
     color: #333545;
     position: relative;
     left: 18.1%;
@@ -628,8 +621,8 @@ a:hover {
     font-size: 10pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 230pt;
-}
-.titleBanner2 {
+ }
+ .titleBanner2 {
     color: #333545;
     position: relative;
     left: 27.8%;
@@ -637,14 +630,14 @@ a:hover {
     font-size: 17pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 215pt;
-}
-.arrow2{
+ }
+ .arrow2{
     position: relative;
     left: 36%;
     bottom: 121%;
     width: 30%;
-}
-.formularioContacto{
+ }
+ .formularioContacto{
     height: 690pt;
     margin-top: -3%;
     width: 101.2% !important;
@@ -652,22 +645,22 @@ a:hover {
     right: 1.2%;
     margin-bottom: 3%;
     background-color: white;;
-}
-.theForm {
+ }
+ .theForm {
     width: 82%;
     text-align: right;
     position: relative;
     left: 8.7%;
     top: 11%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.privacyPolicy{
+ }
+ .privacyPolicy{
     color: #333545 !important;
     font-size: 12pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
-}
-.contactHeader{
+ }
+ .contactHeader{
     text-align: center;
     color: #333545 !important;
     padding-top: 7% !important;
@@ -720,7 +713,5 @@ a:hover {
  }
  .privacyContainer{
      margin-top: 3%;
+ }  
  }
-
-    
-  }

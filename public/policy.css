@@ -46,10 +46,14 @@ a{
  /* For mobiles responsiveness */
  @media screen and (max-width: 768px) {
     #policy{
-        height: 900%;
+        height: 1535pt;
     }
     .titlePolicy {
         font-size: 100% !important;
+        width: 40%;
+        position: relative;
+        left: 29%;
+        top: 0.5%;
     }
     .r{
         padding-top: 5%;
@@ -73,8 +77,8 @@ a{
  }
  .regresarboton {
     position: relative;
-    left: 40%;
-    margin-top: -2%;
+    left: 36%;
+    margin-top: 6%;
     margin-bottom: 7%;
 }
  }
