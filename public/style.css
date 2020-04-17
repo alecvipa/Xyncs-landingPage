@@ -470,7 +470,10 @@ a:hover {
     width: 30% !important;
 }
 .sectionBtn{
-    margin-top: 8%;
+    margin-top: 24%;
+    width: 134%;
+    position: relative;
+    right: 30%;
 }
 .titleJumbo{
     font-size: 200% !important;
