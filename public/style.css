@@ -622,19 +622,19 @@ a:hover {
 .titleBanner {
     color: #333545;
     position: relative;
-    left: 10.1%;
+    left: 18.1%;
     bottom: 82%;
     font-weight: bold;
-    font-size: 13pt;
+    font-size: 10pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 230pt;
 }
 .titleBanner2 {
     color: #333545;
     position: relative;
-    left: 24.8%;
+    left: 29.8%;
     bottom: 82%;
-    /* font-weight: bold; */
+    font-size: 17pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 215pt;
 }
