@@ -614,16 +614,16 @@ a:hover {
     background-color: #1fd3fb;
 }
 .xyncsTransWhite{
-    width: 25%;
+    width: 14%;
     position: relative;
     left: 6.5%;
-    margin-top: 9% !important; 
+    margin-top: 37% !important; 
 }
 .titleBanner {
     color: #333545;
     position: relative;
-    left: 37.1%;
-    bottom: 62%;
+    left: 10.1%;
+    bottom: 82%;
     font-weight: bold;
     font-size: 13pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -632,16 +632,16 @@ a:hover {
 .titleBanner2 {
     color: #333545;
     position: relative;
-    left: 47.8%;
-    bottom: 62%;
+    left: 24.8%;
+    bottom: 82%;
     /* font-weight: bold; */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 215pt;
 }
 .arrow2{
     position: relative;
-    left: 57%;
-    bottom: 108%;
+    left: 36%;
+    bottom: 121%;
     width: 30%;
 }
 .formularioContacto{
