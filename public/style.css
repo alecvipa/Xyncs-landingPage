@@ -632,7 +632,7 @@ a:hover {
 .titleBanner2 {
     color: #333545;
     position: relative;
-    left: 29.8%;
+    left: 27.8%;
     bottom: 82%;
     font-size: 17pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -654,11 +654,11 @@ a:hover {
     background-color: white;;
 }
 .theForm {
-    width: 51%;
+    width: 82%;
     text-align: right;
     position: relative;
-    left: 45.7%;
-    top: -6%;
+    left: 9.7%;
+    top: 11%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .privacyPolicy{
@@ -686,10 +686,10 @@ a:hover {
  }
  .subtitleContact{
      position: relative;
-     top: 10%;
-     left: 3%;
+     top: 6%;
+     left: 5%;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-     width: 40%;
+     width: 90%;
  }
  .formTitle1{
      font-size: 15pt;
