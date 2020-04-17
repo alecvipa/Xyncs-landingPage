@@ -174,7 +174,7 @@ a:hover {
   #seo{
     margin-top: 10pt;
     position: relative;
-    right: -2.5%;
+    right: 1.5%;
   }
   .seoimg {
     width: 400px;
@@ -190,8 +190,8 @@ a:hover {
   #intellImage{
     margin-top: 10pt;
     position: relative;
-    right: -1%;
-    width: 450px;
+    right: -31%;
+    width: 90%;
   }
   #intellImage:hover .image {
     opacity: 0.3;
@@ -204,7 +204,7 @@ a:hover {
       margin-top: 10pt;
       position: relative;
       right: 24%;
-      width: 450px;
+      width: 90%;
   }
   #tech:hover .image {
     opacity: 0.3;
