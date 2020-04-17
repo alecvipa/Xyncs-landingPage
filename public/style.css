@@ -645,7 +645,7 @@ a:hover {
     width: 30%;
 }
 .formularioContacto{
-    height: 636pt;
+    height: 670pt;
     margin-top: -3%;
     width: 101.2% !important;
     position: relative;
@@ -657,7 +657,7 @@ a:hover {
     width: 82%;
     text-align: right;
     position: relative;
-    left: 9.7%;
+    left: 8.7%;
     top: 11%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
