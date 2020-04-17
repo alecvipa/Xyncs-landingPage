@@ -50,25 +50,25 @@ a{
     }
     .titlePolicy {
         font-size: 100% !important;
-        width: 40%;
+        width: 50%;
         position: relative;
-        left: 29%;
+        left: 25%;
         top: 0.5%;
     }
     .r{
         padding-top: 5%;
     }
     /* Quinta Sección */
- .footer{
-    height: 135pt;
-    margin-top: -3%;
-    width: 101.2% !important;
-    position: relative;
-    right: 1.2%;
-    margin-bottom: 3%;
-    background-color: #333545;
-    margin-bottom: -1%;
- }
+    .footer{
+        height: 116pt;
+        margin-top: -3%;
+        width: 101.2% !important;
+        position: relative;
+        right: 1.2%;
+        margin-bottom: 3%;
+        background-color: #333545;
+        margin-bottom: -1%;
+     }
  .xyncsTransFooter{
     width: 30%;
     position: relative;
