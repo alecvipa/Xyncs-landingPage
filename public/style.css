@@ -614,7 +614,8 @@ a:hover {
     font-weight: bold;
     font-size: 10pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    width: 230pt;
+    width: 166pt;
+    margin: 0%;
  }
  .titleBanner2 {
     color: #333545;
