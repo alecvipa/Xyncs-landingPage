@@ -355,16 +355,10 @@ a:hover {
     #navScrollSpy{
         margin-top: 20%;
         margin-left: 17%;
+        margin-right: 4%;
+        width: 39%;
+        padding: 0%;
     }
-    /* .navbar-toggler{
-        width: 40% !important;
-        line-height: 2 !important;
-    } */
-    /* .navbar-toggler-icon{
-        font-size: 1.55rem;
-        padding: 50%;
-        margin-right: 2%;
-    } */
     a {
         color: white !important;
         margin-top: -2%;
@@ -399,7 +393,7 @@ a:hover {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         text-align: center;
         margin-top: -4%;
-        width: 84%;
+        width: 82%;
         position: relative;
         left: 24.5%;
     }
